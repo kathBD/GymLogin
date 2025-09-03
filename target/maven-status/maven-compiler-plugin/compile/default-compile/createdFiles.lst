@@ -1,0 +1,8 @@
+util\TestConnection.class
+controller\LoginServlet.class
+com\kath\gymlogin\resources\JakartaEE10Resource.class
+com\kath\gymlogin\JakartaRestConfiguration.class
+controller\LogoutServlet.class
+model\dao\UserDao.class
+util\ConnectionBD.class
+model\User.class
