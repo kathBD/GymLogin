@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class ConnectionBD {
     private static final String URL = "jdbc:mysql://localhost:3306/vibrafitapp?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "Tsuki28ñ(1518)";
+    private static final String PASSWORD = "123";
 
     public static Connection getConnection() {
         try {
