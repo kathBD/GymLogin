@@ -6,4 +6,6 @@
 <img width="1398" height="665" alt="image" src="https://github.com/user-attachments/assets/1bc5a153-20df-4aee-96d0-cb2158658dc9" />
 ### Inicio en Home.jsp
 <img width="1442" height="663" alt="image" src="https://github.com/user-attachments/assets/e8cfd060-bde6-48a6-94a6-8f34ab05c325" />
+### BD 
 
+<img width="1301" height="167" alt="image" src="https://github.com/user-attachments/assets/1bbe158e-8ba2-467f-8708-3d8cb91cf148" />
